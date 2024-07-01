@@ -10,7 +10,7 @@ import static org.hamcrest.Matchers.equalTo;
 
     public class JenkinsTest {
 
-        String bearerToken = "сюда_впиши_свой_токен";
+        String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NjM1ZTVlZmYwYTExODAwM2QyZDExMTYiLCJpYXQiOjE3MTg3OTM3MjUsImV4cCI6MTcxOTM5ODUyNX0.qg2TLVJ2qmy2YH6JLENQBnV38XaoAm7DSdyVqFWsHvA";
 
         @Before
         public void setUp() {
